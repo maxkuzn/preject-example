@@ -1,4 +1,4 @@
-# preject-example
+# project-example
 
 Этот проект служит примером для организации файлов, работы с cmake и работы с библиотеками [gtest](https://github.com/google/googletest) и [googlebanchmark](https://github.com/google/benchmark).
 
